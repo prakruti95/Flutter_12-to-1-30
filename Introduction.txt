@@ -1,0 +1,42 @@
+System Pass - tops?123
+Wifi - tops@0987
+Practice Time - 9:30 TO 7:30[Mon,Wed,Fri]
+Lecture Time - 12 to 1:30 [Tue,Thu,Sat]
+
+Tops Carrer Center 
+
+Personal details
+linkedin id
+insta id
+adhar card-front,back
+
+Education Details
+
+-> Github :
+
+1) Create File
+2) Upload File
+3) Create Folder
+4) Folder - File Upload
+
+
+Three ways 
+
+1)drag and drop
+
+2)github desktop software - https://desktop.github.com/download/
+file push- commit
+
+
+3)git cmd - https://git-scm.com/downloads
+1.git init
+2.git add -A
+3.git status
+4.git commit -m "First Commit"
+5.git remote add origin https://github.com/prakrutitops/Java_Workspace_8-30-to-10-00.git
+6.git push origin master
+
+
+
+
+
