@@ -1,0 +1,24 @@
+Encap:
+
+set
+get
+
+Polymorphism:
+
+1)Overloading : When two or more methods having a same name but number of parameters
+are diffrent
+
+2)Overriding : When two or more methods having a same name and number of parameters
+are also same
+
+-> Overloading is not supported in dart.
+
+
+type casting:
+string
+double type cast
+
+double.parse();
+
+
+
