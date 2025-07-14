@@ -1,0 +1,2 @@
+Flutter SDK -> https://docs.flutter.dev/install/archive
+Android Studio -> https://developer.android.com/studio
