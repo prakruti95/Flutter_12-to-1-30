@@ -1,0 +1,88 @@
+1.
+Task: Create a Simple Banking System in Dart
+In this task, you will implement a simple banking system where:
+
+Topics:
+Classes and Objects will represent different types of accounts.
+
+Constructors will be used to initialize account details.
+
+The this keyword will be used for referring to instance variables.
+
+Inheritance will be used to create different types of bank accounts (e.g., Savings and Checking accounts).
+
+Static keyword will be used for a global bank balance counter.
+
+Final keyword will be used for immutable properties.
+
+Conditionals will be used for various actions like deposit, withdrawal, and checking balance.
+
+Loops will be used for menu-driven interaction.
+
+Requirements:
+Create a BankAccount class.
+
+Use inheritance to create SavingsAccount and CheckingAccount.
+
+Implement a constructor in each class.
+
+Implement basic operations:
+
+Deposit money into an account.
+
+Withdraw money from an account.
+
+Check the current balance.
+
+Use the static keyword to keep track of the total bank balance.
+
+Use the final keyword for account holder name.
+
+Use if-else statements and switch-case statements for conditional behavior.
+
+Use a while loop for a menu-driven system that continuously asks the user for actions until they choose to exit.
+
+
+
+2.
+Create a Simple Cafe Ordering System in Dart
+In this task, you will implement a cafe ordering system where:
+
+Classes and Objects will represent different menu items (e.g., drinks and food).
+
+Constructors will be used to initialize item details.
+
+The this keyword will be used for referring to instance variables.
+
+Inheritance will be used to create different types of items (e.g., Drink and Food).
+
+Static keyword will be used to track the total sales.
+
+Final keyword will be used for immutable properties like item names.
+
+Conditionals will be used to apply discounts, and check the stock of items.
+
+Loops will be used for the menu system to continuously allow customers to make orders.
+
+Requirements:
+Create a base class MenuItem that represents a menu item (drink or food).
+
+Use inheritance to create Drink and Food classes.
+
+Implement a constructor for each class to initialize details.
+
+Implement basic operations:
+
+Add items to the order.
+
+Apply discounts on some items.
+
+Calculate the total bill.
+
+Use static keyword to keep track of the total sales.
+
+Use final keyword for immutable item names.
+
+Use if-else statements and switch-case statements for conditional behavior.
+
+Use a while loop for a menu-driven system that continuously asks the user for actions.
