@@ -1,0 +1,6 @@
+create one screen for amul products
+
+there is a one text with the name of AMUL PRODUCTS
+
+after that add product image,product name and product price 
+add total 10 data
