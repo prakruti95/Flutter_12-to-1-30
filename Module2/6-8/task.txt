@@ -1,0 +1,9 @@
+1)
+Switch-
+Music Play
+Music Stop
+
+2)connectivity_plus
+Network Check
+
+RefreshIndicator
