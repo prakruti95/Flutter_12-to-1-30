@@ -1,0 +1,19 @@
+Create one app with Login screen using login screen user can logged in and that login detail 
+will saved in sharedprefrence.
+ 
+1st tab:
+after login there are bottom navigation is given in first tab user can play game for 
+random number generation everytime when screen opens new random number 
+is generated if user entered num and that num is matched then you are winner
+else you are losser maximum you can try max5 times
+
+2nd tab:
+Countdown Tap Challenge:
+
+You have 10 seconds to tap a button as many times as you can.
+Timer starts on first tap
+Tap counter increments on each tap
+Show score when time is up
+
+
+then both games store in option menu sharedprefrence
