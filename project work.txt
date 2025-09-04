@@ -1,0 +1,17 @@
+Splash Screen
+Login Screen
+Signup Screen
+Dashboard Screen
+[SharedPrefrence]
+[Validations]
+[appbar - options]
+App-Logo
+App-Title
+
+
+
+
+
+
+
+
