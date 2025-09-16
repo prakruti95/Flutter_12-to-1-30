@@ -1,0 +1,36 @@
+Notes:
+
+
+Login Screen -> 
+Signup ->Sqflite
+Dashboard
+
+4 Buttons
+
+Add Notes
+
+-> Text Notes -> 
+Click -> 
+Title
+
+Description
+
+
+-> Image Notes->
+Image save
+
+
+Voice Notes
+
+record 
+
+Drawing Notes
+
+
+
+
+
+
+
+
+
