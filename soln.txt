@@ -1,0 +1,31 @@
+  Future<void> fetchPosts() async {
+    final url = Uri.parse('https://jsonplaceholder.typicode.com/posts');
+
+    try {
+      final response = await http.get(
+        url,
+        headers: {
+          'User-Agent': 'FlutterApp/1.0',
+          'Accept': 'application/json',
+        },
+      );
+
+      if (response.statusCode == 200) {
+        List jsonData = json.decode(response.body);
+        setState(() {
+          posts = jsonData.map((e) => Post.fromJson(e)).toList();
+          isLoading = false;
+        });
+      } else {
+        setState(() {
+          error = 'Failed to load posts. Status code: ${response.statusCode}';
+          isLoading = false;
+        });
+      }
+    } catch (e) {
+      setState(() {
+        error = 'Error: $e';
+        isLoading = false;
+      });
+    }
+  }
