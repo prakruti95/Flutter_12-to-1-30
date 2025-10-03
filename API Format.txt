@@ -1,0 +1,12 @@
+1.
+
+echo "<h2>Payal API</h2>";
+echo "<ul>";
+echo "<li><a href='payal/connect.php'>connection</a></li>";
+echo "<li><a href='payal/add_category.php'>add_category</a></li>";
+
+2.
+table name : vaishvi_login
+
+3.connect.php
+con
