@@ -1,0 +1,22 @@
+Firebase Signup
+login
+
+Splash
+Introduction Screen
+Login
+Signup
+Dashboard->Sharedprefrence->logout
+login with gmail
+
+
+id
+name->
+email->
+password->
+identifier->user,google,
+
+
+
+
+
+
