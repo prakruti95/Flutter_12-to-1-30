@@ -1,0 +1,2 @@
+Task:
+login user with social media and print their detail in profile
